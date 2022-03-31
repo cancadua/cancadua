@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in IT, mostly Java, JavaScript and theirs extensions
+- 🌱 I’m currently learning NextJS and TypeScript
+- 📫 How to reach me: cancadua@protonmail.com
