@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adrian https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+# 👋 Hi, I'm Adrian
 
 I'm third-year computer science student. 
 Eager to learn and improve in IT.
