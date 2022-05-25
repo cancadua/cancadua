@@ -1,3 +1,14 @@
-Adrian
+# 👋 Hi, I'm Adrian https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
 
-Third-year computer science student. Eager to be on the make, learn and improve. Future full stack developer. Favourites are Java and JavaScript.
+I'm third-year computer science student. 
+Eager to learn and improve in IT.
+Future full stack developer.
+
+# :technologist: Favourite technologies
+
+- **Java**
+  - Spring
+- **HTML**
+- **CSS**
+- **JavaScript**
+  - React
