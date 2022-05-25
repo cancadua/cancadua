@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adrian
 
-I'm third-year computer science student. 
-Eager to learn and improve in IT.
-Future full stack developer.
+- Third-year computer science student
+- Interested in full stack
+- Currently focused on JavaScript & React
 
 # ⚡️ Favourite technologies
 
