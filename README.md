@@ -2,7 +2,7 @@
 
 - Third-year computer science student
 - Interested in full stack
-- Currently focused on JavaScript & React
+- Currently focused on frnt end JavaScript & React
 
 # ⚡️ Favourite technologies
 
