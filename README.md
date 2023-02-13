@@ -2,7 +2,8 @@
 
 - Graduate-year computer science student
 - Interested in full stack
-- Currently focused on front end JavaScript & React
+- Currently focused on JavaScript
+- Specialised in software engineering
 
 # ⚡️ Technologies
 - **HTML**
@@ -10,7 +11,4 @@
   - TailwindCSS
 - **JavaScript**
   - React.js
-- **Node.js**
-  - Express.js
-- **Java**
-  - Spring
+    - Redux
