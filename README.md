@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Adrian
 
-- Graduate-year computer science student
-- Interested in full stack
-- Currently focused on JavaScript
-- Specialised in software engineering
+- Final semester student in the field of computer science, specialised in software engineering
+- Frontend with React
+- Open-minded, flexible, eager to learn new skills and accept challenges
 
 # ⚡️ Technologies
 - **HTML**
 - **CSS**
-  - TailwindCSS
+- **TailwindCSS**
 - **JavaScript**
-  - React.js
-    - Redux
+- **React.js**
+- **Redux**
