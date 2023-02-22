@@ -1,4 +1,4 @@
-# ⚡️ Main technologies
+# ⚡️ Main technologies I work with
 - **HTML**
 - **CSS**
 - **TailwindCSS**
@@ -6,7 +6,7 @@
 - **React.js**
 - **Redux**
 
-# ⚡️ Technologies I've little experience
+# ⚡️ Technologies I've little experience with
 - **Java**
 - **Spring**
 - **Python**
