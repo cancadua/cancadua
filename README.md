@@ -1,10 +1,9 @@
 # ⚡️ Main technologies I work with
 - **HTML**
 - **CSS**
-- **TailwindCSS**
 - **JavaScript**
-- **React.js**
-- **Redux**
+- **Angular**
+- **rxjs**
 
 # ⚡️ Technologies I've little experience with
 - **Java**
