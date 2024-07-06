@@ -1,7 +1,8 @@
 # ⚡️ Main technologies I work with
 - **HTML**
 - **CSS**
-- **JavaScript**
+- **JS**
+- **TS**
 - **Angular**
 - **rxjs**
 
@@ -10,5 +11,4 @@
 - **Spring**
 - **Python**
 - **Django**
-- **TypeScript**
 - **C/C++**
