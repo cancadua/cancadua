@@ -64,16 +64,6 @@
 
 ---
 
-## 🤝 Open To
-
-- Interesting collaborations
-- Open Source contributions
-- Angular projects
-- Frontend Architecture discussions
-- Learning from experienced engineers
-
----
-
 ## 🎮 Beyond Coding
 
 When I'm away from the keyboard, you'll probably find me:
@@ -95,18 +85,6 @@ When I'm away from the keyboard, you'll probably find me:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cancadua&hide_border=true" />
 </p>
-
----
-
-## 🚀 What I'm Looking For
-
-I'm always interested in projects where I can:
-
-- Build scalable enterprise applications
-- Solve challenging engineering problems
-- Learn modern backend technologies
-- Contribute to impactful software
-- Collaborate with passionate developers
 
 ---
 
