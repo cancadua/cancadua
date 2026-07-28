@@ -86,11 +86,6 @@ When I'm away from the keyboard, you'll probably find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cancadua&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancadua&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=cancadua&hide_border=true" />
 </p>
 
