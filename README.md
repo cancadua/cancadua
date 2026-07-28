@@ -1,6 +1,14 @@
 <div align="center">
 
-# Hi, I'm Adrian 👋
+<div align="center">
+
+# Adrian
+
+### Frontend Engineer • Angular • Enterprise Applications
+
+Building reliable enterprise software while exploring backend engineering, AI Agents and distributed systems.
+
+</div>
 
 ### Frontend Engineer specializing in enterprise applications
 
@@ -78,8 +86,8 @@ When I'm away from the keyboard, you'll probably find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cancadua&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancadua&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cancadua&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancadua&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
